@@ -1,0 +1,1627 @@
+     [
+      {
+        "mcc": "1001",
+        "submcc": "4214",
+        "submccname": "物流货运服务"
+      },
+      {
+        "mcc": "1001",
+        "submcc": "4215",
+        "submccname": "快递服务"
+      },
+      {
+        "mcc": "1001",
+        "submcc": "4225",
+        "submccname": "公共仓储、集装整理"
+      },
+      {
+        "mcc": "1002",
+        "submcc": "5310",
+        "submccname": "团购及折扣店"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "4816",
+        "submccname": "互联网IDC服务"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "5734",
+        "submccname": "计算机软件"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "7372",
+        "submccname": "软件系统商"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "7373",
+        "submccname": "网络论坛"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "7374",
+        "submccname": "门户网站"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "7375",
+        "submccname": "信息检索服务（信息平台）"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "7379",
+        "submccname": "计算机维护和修理服务"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "7408",
+        "submccname": "网站设计、推广"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "7409",
+        "submccname": "SNS社交网站"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "7410",
+        "submccname": "休闲游戏"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "7411",
+        "submccname": "在线文学类"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "7412",
+        "submccname": "手机图铃"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "7413",
+        "submccname": "其他在线应用或综合类"
+      },
+      {
+        "mcc": "1003",
+        "submcc": "7414",
+        "submccname": "视频点播"
+      },
+      {
+        "mcc": "1004",
+        "submcc": "7954",
+        "submccname": "网络游戏点卡、渠道代理"
+      },
+      {
+        "mcc": "1004",
+        "submcc": "7956",
+        "submccname": "游戏系统商"
+      },
+      {
+        "mcc": "1004",
+        "submcc": "7957",
+        "submccname": "网游周边服务、交易平台"
+      },
+      {
+        "mcc": "1004",
+        "submcc": "7958",
+        "submccname": "网游运营商（含网页游戏）"
+      },
+      {
+        "mcc": "1005",
+        "submcc": "5300",
+        "submccname": "会员制批量零售店"
+      },
+      {
+        "mcc": "1005",
+        "submcc": "5309",
+        "submccname": "国外代购及免税店"
+      },
+      {
+        "mcc": "1005",
+        "submcc": "5311",
+        "submccname": "平台类综合商城"
+      },
+      {
+        "mcc": "1005",
+        "submcc": "5331",
+        "submccname": "杂货店"
+      },
+      {
+        "mcc": "1005",
+        "submcc": "5399",
+        "submccname": "百货商城"
+      },
+      {
+        "mcc": "1005",
+        "submcc": "5411",
+        "submccname": "超市（非平台类）"
+      },
+      {
+        "mcc": "1005",
+        "submcc": "5914",
+        "submccname": "成人用品/避孕用品/情趣内衣"
+      },
+      {
+        "mcc": "1005",
+        "submcc": "5983",
+        "submccname": "油品燃料经销"
+      },
+      {
+        "mcc": "1005",
+        "submcc": "5984",
+        "submccname": "烟花爆竹"
+      },
+      {
+        "mcc": "1005",
+        "submcc": "5998",
+        "submccname": "帐篷和遮阳篷商店"
+      },
+      {
+        "mcc": "1005",
+        "submcc": "5999",
+        "submccname": "其他专业零售店"
+      },
+      {
+        "mcc": "1006",
+        "submcc": "7995",
+        "submccname": "彩票"
+      },
+      {
+        "mcc": "1007",
+        "submcc": "6760",
+        "submccname": "个人资金借贷"
+      },
+      {
+        "mcc": "1007",
+        "submcc": "4829",
+        "submccname": "电汇和汇票服务"
+      },
+      {
+        "mcc": "1007",
+        "submcc": "5933",
+        "submccname": "典当行"
+      },
+      {
+        "mcc": "1007",
+        "submcc": "6010",
+        "submccname": "金融机构-商业银行服务"
+      },
+      {
+        "mcc": "1007",
+        "submcc": "6011",
+        "submccname": "金融机构-自动现金服务"
+      },
+      {
+        "mcc": "1007",
+        "submcc": "6012",
+        "submccname": "金融机构-其他服务"
+      },
+      {
+        "mcc": "1007",
+        "submcc": "6050",
+        "submccname": "贵金属投资"
+      },
+      {
+        "mcc": "1007",
+        "submcc": "6051",
+        "submccname": "外币汇兑"
+      },
+      {
+        "mcc": "1007",
+        "submcc": "6211",
+        "submccname": "证券期货基金"
+      },
+      {
+        "mcc": "1007",
+        "submcc": "6300",
+        "submccname": "保险公司"
+      },
+      {
+        "mcc": "1007",
+        "submcc": "6301",
+        "submccname": "保险代理"
+      },
+      {
+        "mcc": "1008",
+        "submcc": "5051",
+        "submccname": "金属产品和服务（批发商）"
+      },
+      {
+        "mcc": "1008",
+        "submcc": "5065",
+        "submccname": "电气产品和设备"
+      },
+      {
+        "mcc": "1008",
+        "submcc": "5072",
+        "submccname": "五金器材及用品（批发商）"
+      },
+      {
+        "mcc": "1008",
+        "submcc": "5074",
+        "submccname": "管道及供暖设备"
+      },
+      {
+        "mcc": "1008",
+        "submcc": "5085",
+        "submccname": "工业设备和制成品"
+      },
+      {
+        "mcc": "1008",
+        "submcc": "5099",
+        "submccname": "其他工业耐用品"
+      },
+      {
+        "mcc": "1008",
+        "submcc": "5169",
+        "submccname": "化工产品"
+      },
+      {
+        "mcc": "1008",
+        "submcc": "5172",
+        "submccname": "石油及石油产品（批发商）"
+      },
+      {
+        "mcc": "1008",
+        "submcc": "5199",
+        "submccname": "其他工业原料和消耗品"
+      },
+      {
+        "mcc": "1009",
+        "submcc": "4814",
+        "submccname": "电信运营商"
+      },
+      {
+        "mcc": "1009",
+        "submcc": "4815",
+        "submccname": "话费充值与缴费"
+      },
+      {
+        "mcc": "1009",
+        "submcc": "4821",
+        "submccname": "网络电话、传真"
+      },
+      {
+        "mcc": "1009",
+        "submcc": "4899",
+        "submccname": "付费电视"
+      },
+      {
+        "mcc": "1010",
+        "submcc": "8211",
+        "submccname": "中小学校"
+      },
+      {
+        "mcc": "1010",
+        "submcc": "8220",
+        "submccname": "大学与学院"
+      },
+      {
+        "mcc": "1010",
+        "submcc": "8241",
+        "submccname": "函授学校（成人教育）"
+      },
+      {
+        "mcc": "1010",
+        "submcc": "8244",
+        "submccname": "商业和文秘学校"
+      },
+      {
+        "mcc": "1010",
+        "submcc": "8249",
+        "submccname": "职业技能培训"
+      },
+      {
+        "mcc": "1010",
+        "submcc": "8299",
+        "submccname": "其他学校和教育服务"
+      },
+      {
+        "mcc": "1010",
+        "submcc": "8351",
+        "submccname": "儿童保育服务（含学前教育）"
+      },
+      {
+        "mcc": "1011",
+        "submcc": "4900",
+        "submccname": "公共事业（电、气、水）"
+      },
+      {
+        "mcc": "1011",
+        "submcc": "4901",
+        "submccname": "公共事业-电力缴费"
+      },
+      {
+        "mcc": "1011",
+        "submcc": "4902",
+        "submccname": "公共事业-煤气缴费"
+      },
+      {
+        "mcc": "1011",
+        "submcc": "4903",
+        "submccname": "公共事业-自来水缴费"
+      },
+      {
+        "mcc": "1011",
+        "submcc": "4904",
+        "submccname": "公共事业-清洁服务缴费"
+      },
+      {
+        "mcc": "1012",
+        "submcc": "4011",
+        "submccname": "铁路货运"
+      },
+      {
+        "mcc": "1012",
+        "submcc": "4111",
+        "submccname": "公共交通"
+      },
+      {
+        "mcc": "1012",
+        "submcc": "4112",
+        "submccname": "铁路客运"
+      },
+      {
+        "mcc": "1012",
+        "submcc": "4119",
+        "submccname": "急救服务"
+      },
+      {
+        "mcc": "1012",
+        "submcc": "4121",
+        "submccname": "出租车服务（TAXI）"
+      },
+      {
+        "mcc": "1012",
+        "submcc": "4131",
+        "submccname": "长途公路客运"
+      },
+      {
+        "mcc": "1012",
+        "submcc": "4411",
+        "submccname": "游轮及巡游航线服务"
+      },
+      {
+        "mcc": "1012",
+        "submcc": "4457",
+        "submccname": "出租船只"
+      },
+      {
+        "mcc": "1012",
+        "submcc": "4468",
+        "submccname": "船舶、海运服务提供商"
+      },
+      {
+        "mcc": "1013",
+        "submcc": "4511",
+        "submccname": "航空公司"
+      },
+      {
+        "mcc": "1013",
+        "submcc": "4512",
+        "submccname": "机票代理人"
+      },
+      {
+        "mcc": "1013",
+        "submcc": "4513",
+        "submccname": "机票平台"
+      },
+      {
+        "mcc": "1013",
+        "submcc": "4514",
+        "submccname": "航空系统商"
+      },
+      {
+        "mcc": "1013",
+        "submcc": "4582",
+        "submccname": "机场服务"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7829",
+        "submccname": "艺术创作服务"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7832",
+        "submccname": "电影院及电影票"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7841",
+        "submccname": "音像制品出租"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7911",
+        "submccname": "歌舞厅/夜店"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7922",
+        "submccname": "演出票务服务"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7929",
+        "submccname": "乐队和文艺表演"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7932",
+        "submccname": "桌球/桌游"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7933",
+        "submccname": "保龄球"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7941",
+        "submccname": "体育场馆"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7991",
+        "submccname": "展览和艺术场馆"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7992",
+        "submccname": "高尔夫球场"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7994",
+        "submccname": "电玩娱乐场所"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7996",
+        "submccname": "游乐园、马戏团、嘉年华"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7997",
+        "submccname": "健身和运动俱乐部"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7998",
+        "submccname": "动物园、水族馆"
+      },
+      {
+        "mcc": "1014",
+        "submcc": "7999",
+        "submccname": "其他娱乐服务"
+      },
+      {
+        "mcc": "1015",
+        "submcc": "7512",
+        "submccname": "汽车出租"
+      },
+      {
+        "mcc": "1015",
+        "submcc": "7513",
+        "submccname": "卡车及拖车出租"
+      },
+      {
+        "mcc": "1015",
+        "submcc": "7519",
+        "submccname": "房车和娱乐车辆出租"
+      },
+      {
+        "mcc": "1015",
+        "submcc": "7523",
+        "submccname": "停车服务"
+      },
+      {
+        "mcc": "1015",
+        "submcc": "7531",
+        "submccname": "汽车维修、保养、美容装饰"
+      },
+      {
+        "mcc": "1015",
+        "submcc": "7534",
+        "submccname": "轮胎翻新、维修"
+      },
+      {
+        "mcc": "1015",
+        "submcc": "7535",
+        "submccname": "汽车喷漆店"
+      },
+      {
+        "mcc": "1015",
+        "submcc": "7538",
+        "submccname": "汽车改造等服务（非经销商）"
+      },
+      {
+        "mcc": "1015",
+        "submcc": "7542",
+        "submccname": "洗车"
+      },
+      {
+        "mcc": "1015",
+        "submcc": "7549",
+        "submccname": "拖车服务"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5013",
+        "submccname": "机动车供应及零配件（批发商）"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5271",
+        "submccname": "活动房车销售商"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5511",
+        "submccname": "汽车销售"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5521",
+        "submccname": "二手车销售"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5532",
+        "submccname": "汽车轮胎经销"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5533",
+        "submccname": "汽车零配件"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5541",
+        "submccname": "加油站、服务站"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5542",
+        "submccname": "加油卡、加油服务"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5551",
+        "submccname": "船舶及配件销售"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5561",
+        "submccname": "拖车、篷车及娱乐用车"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5564",
+        "submccname": "轨道交通设备器材"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5565",
+        "submccname": "飞机及配件、航道设施"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5566",
+        "submccname": "运输搬运设备、起重装卸设备"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5571",
+        "submccname": "摩托车及配件"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5572",
+        "submccname": "电动车及配件"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5592",
+        "submccname": "露营及旅行汽车"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5598",
+        "submccname": "雪车"
+      },
+      {
+        "mcc": "1016",
+        "submcc": "5599",
+        "submccname": "机动车综合经营"
+      },
+      {
+        "mcc": "1017",
+        "submcc": "4722",
+        "submccname": "旅行社和旅游服务"
+      },
+      {
+        "mcc": "1017",
+        "submcc": "4723",
+        "submccname": "国际货运代理和报关行"
+      },
+      {
+        "mcc": "1017",
+        "submcc": "4733",
+        "submccname": "大型旅游景点"
+      },
+      {
+        "mcc": "1017",
+        "submcc": "4784",
+        "submccname": "路桥通行费"
+      },
+      {
+        "mcc": "1017",
+        "submcc": "4789",
+        "submccname": "未列入其他代码的运输服务"
+      },
+      {
+        "mcc": "1017",
+        "submcc": "7011",
+        "submccname": "住宿服务（旅馆、酒店、汽车旅馆、度假村等）"
+      },
+      {
+        "mcc": "1017",
+        "submcc": "7012",
+        "submccname": "度假用别墅服务"
+      },
+      {
+        "mcc": "1017",
+        "submcc": "7032",
+        "submccname": "运动和娱乐露营"
+      },
+      {
+        "mcc": "1017",
+        "submcc": "7033",
+        "submccname": "活动房车场及野营场所 "
+      },
+      {
+        "mcc": "1018",
+        "submcc": "1711",
+        "submccname": "空调类承包商"
+      },
+      {
+        "mcc": "1018",
+        "submcc": "1731",
+        "submccname": "电器承包商"
+      },
+      {
+        "mcc": "1018",
+        "submcc": "1740",
+        "submccname": "建筑材料承包商"
+      },
+      {
+        "mcc": "1018",
+        "submcc": "1750",
+        "submccname": "木工承包商"
+      },
+      {
+        "mcc": "1018",
+        "submcc": "1761",
+        "submccname": "金属产品承包商"
+      },
+      {
+        "mcc": "1018",
+        "submcc": "1771",
+        "submccname": "混凝土承包商"
+      },
+      {
+        "mcc": "1018",
+        "submcc": "1799",
+        "submccname": "其他工程承包商"
+      },
+      {
+        "mcc": "1018",
+        "submcc": "0742",
+        "submccname": "兽医服务"
+      },
+      {
+        "mcc": "1018",
+        "submcc": "0743",
+        "submccname": "葡萄酒生产商"
+      },
+      {
+        "mcc": "1018",
+        "submcc": "0744",
+        "submccname": "其他酒类生产商"
+      },
+      {
+        "mcc": "1018",
+        "submcc": "0763",
+        "submccname": "农业合作与农具"
+      },
+      {
+        "mcc": "1018",
+        "submcc": "0780",
+        "submccname": "景观美化与园艺服务"
+      },
+      {
+        "mcc": "1019",
+        "submcc": "1520",
+        "submccname": "房地产开发商"
+      },
+      {
+        "mcc": "1019",
+        "submcc": "6513",
+        "submccname": "不动产管理－物业管理 "
+      },
+      {
+        "mcc": "1019",
+        "submcc": "7013",
+        "submccname": "不动产代理——房地产经纪 "
+      },
+      {
+        "mcc": "1020",
+        "submcc": "2741",
+        "submccname": "出版印刷服务"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "2791",
+        "submccname": "刻版排版服务"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "2842",
+        "submccname": "清洁抛光服务"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "5935",
+        "submccname": "海上船只遇难救助 "
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7311",
+        "submccname": "广告服务"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7321",
+        "submccname": "征信和信用报告咨询服务"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7322",
+        "submccname": "债务催收机构"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7333",
+        "submccname": "商业摄影、设计、绘图服务"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7338",
+        "submccname": "复印及绘图服务"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7339",
+        "submccname": "文字处理/翻译速记"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7342",
+        "submccname": "灭虫及消毒服务"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7349",
+        "submccname": "清洁、保养及门卫服务"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7361",
+        "submccname": "猎头、职业中介"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7392",
+        "submccname": "公关和企业管理服务"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7393",
+        "submccname": "保安和监控服务"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7394",
+        "submccname": "设备、工具、家具和电器出租"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7395",
+        "submccname": "商业摄影摄像服务"
+      },
+      {
+        "mcc": "1020",
+        "submcc": "7399",
+        "submccname": "其他商业服务"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7210",
+        "submccname": "洗衣服务 "
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7211",
+        "submccname": "洗熨服务（自助洗衣服务） "
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7216",
+        "submccname": "干洗店"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7217",
+        "submccname": "室内清洁服务"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7221",
+        "submccname": "摄影服务"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7230",
+        "submccname": "美容/美发服务"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7251",
+        "submccname": "鞋帽清洗"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7261",
+        "submccname": "丧仪殡葬服务"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7273",
+        "submccname": "婚介服务"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7276",
+        "submccname": "财务债务咨询"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7277",
+        "submccname": "婚庆服务"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7279",
+        "submccname": "导购、经纪和拍卖服务"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7295",
+        "submccname": "家政服务"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7296",
+        "submccname": "服装出租"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7297",
+        "submccname": "按摩服务"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7298",
+        "submccname": "美容SPA和美体保健"
+      },
+      {
+        "mcc": "1021",
+        "submcc": "7299",
+        "submccname": "其他生活服务"
+      },
+      {
+        "mcc": "1022",
+        "submcc": "7622",
+        "submccname": "电器维修"
+      },
+      {
+        "mcc": "1022",
+        "submcc": "7623",
+        "submccname": "空调、制冷设备维修"
+      },
+      {
+        "mcc": "1022",
+        "submcc": "7629",
+        "submccname": "办公电器和小家电维修"
+      },
+      {
+        "mcc": "1022",
+        "submcc": "7631",
+        "submccname": "手表、钟表和首饰维修店"
+      },
+      {
+        "mcc": "1022",
+        "submcc": "7641",
+        "submccname": "家具维修、翻新"
+      },
+      {
+        "mcc": "1022",
+        "submcc": "7692",
+        "submccname": "焊接维修服务"
+      },
+      {
+        "mcc": "1022",
+        "submcc": "7699",
+        "submccname": "各类维修相关服务"
+      },
+      {
+        "mcc": "1023",
+        "submcc": "5960",
+        "submccname": "保险直销（代扣）"
+      },
+      {
+        "mcc": "1023",
+        "submcc": "5962",
+        "submccname": "旅游相关服务直销"
+      },
+      {
+        "mcc": "1023",
+        "submcc": "5963",
+        "submccname": "上门直销（直销员）"
+      },
+      {
+        "mcc": "1023",
+        "submcc": "5964",
+        "submccname": "目录直销平台"
+      },
+      {
+        "mcc": "1023",
+        "submcc": "5965",
+        "submccname": "直销代理"
+      },
+      {
+        "mcc": "1023",
+        "submcc": "5966",
+        "submccname": "电话外呼直销"
+      },
+      {
+        "mcc": "1023",
+        "submcc": "5967",
+        "submccname": "电话接入直销"
+      },
+      {
+        "mcc": "1023",
+        "submcc": "5968",
+        "submccname": "订阅订购服务"
+      },
+      {
+        "mcc": "1023",
+        "submcc": "5969",
+        "submccname": "直销"
+      },
+      {
+        "mcc": "1024",
+        "submcc": "5137",
+        "submccname": "制服与商务正装定制"
+      },
+      {
+        "mcc": "1024",
+        "submcc": "5139",
+        "submccname": "鞋类销售平台（批发商）"
+      },
+      {
+        "mcc": "1024",
+        "submcc": "5611",
+        "submccname": "男性服饰"
+      },
+      {
+        "mcc": "1024",
+        "submcc": "5621",
+        "submccname": "女性成衣"
+      },
+      {
+        "mcc": "1024",
+        "submcc": "5631",
+        "submccname": "配饰商店"
+      },
+      {
+        "mcc": "1024",
+        "submcc": "5651",
+        "submccname": "内衣/家居服"
+      },
+      {
+        "mcc": "1024",
+        "submcc": "5661",
+        "submccname": "鞋类"
+      },
+      {
+        "mcc": "1024",
+        "submcc": "5681",
+        "submccname": "皮草皮具"
+      },
+      {
+        "mcc": "1024",
+        "submcc": "5691",
+        "submccname": "高档时装及奢侈品"
+      },
+      {
+        "mcc": "1024",
+        "submcc": "5697",
+        "submccname": "裁缝、修补、改衣制衣"
+      },
+      {
+        "mcc": "1024",
+        "submcc": "5698",
+        "submccname": "假发等饰品"
+      },
+      {
+        "mcc": "1024",
+        "submcc": "5699",
+        "submccname": "各类服装及饰物"
+      },
+      {
+        "mcc": "1024",
+        "submcc": "5948",
+        "submccname": "行李箱包"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5039",
+        "submccname": "未列入其他代码的建材（批发商）"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5131",
+        "submccname": "布料、缝纫用品和其他纺织品（批发商）"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5193",
+        "submccname": "花木栽种用品、苗木和花卉（批发商）"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5198",
+        "submccname": "油漆、清漆用品（批发商）"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5200",
+        "submccname": "大型仓储式家庭用品卖场"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5211",
+        "submccname": "木材与建材商店"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5231",
+        "submccname": "玻璃、油漆涂料、墙纸"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5251",
+        "submccname": "家用五金工具"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5261",
+        "submccname": "草坪和花园用品"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5712",
+        "submccname": "家具/家庭摆设"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5713",
+        "submccname": "地板和地毯"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5714",
+        "submccname": "窗帘、帷幕、室内装潢"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5718",
+        "submccname": "壁炉、屏风"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5719",
+        "submccname": "各种家庭装饰专营"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5949",
+        "submccname": "家用纺织品"
+      },
+      {
+        "mcc": "1025",
+        "submcc": "5996",
+        "submccname": "游泳、SPA、洗浴设备"
+      },
+      {
+        "mcc": "1026",
+        "submcc": "5094",
+        "submccname": "珠宝和金银饰品"
+      },
+      {
+        "mcc": "1026",
+        "submcc": "5944",
+        "submccname": "钟表店"
+      },
+      {
+        "mcc": "1026",
+        "submcc": "5977",
+        "submccname": "化妆品"
+      },
+      {
+        "mcc": "1026",
+        "submcc": "5997",
+        "submccname": "男士用品：剃须刀、烟酒具、瑞士军刀"
+      },
+      {
+        "mcc": "1027",
+        "submcc": "5641",
+        "submccname": "母婴用品"
+      },
+      {
+        "mcc": "1027",
+        "submcc": "5945",
+        "submccname": "玩具、游戏用品"
+      },
+      {
+        "mcc": "1028",
+        "submcc": "4812",
+        "submccname": "手机、通讯设备销售"
+      },
+      {
+        "mcc": "1028",
+        "submcc": "5045",
+        "submccname": "商用计算机及服务器"
+      },
+      {
+        "mcc": "1028",
+        "submcc": "5722",
+        "submccname": "家用电器"
+      },
+      {
+        "mcc": "1028",
+        "submcc": "5732",
+        "submccname": "数码产品及配件"
+      },
+      {
+        "mcc": "1028",
+        "submcc": "5946",
+        "submccname": "专业摄影器材"
+      },
+      {
+        "mcc": "1029",
+        "submcc": "5192",
+        "submccname": "书、期刊和报纸（批发商）"
+      },
+      {
+        "mcc": "1029",
+        "submcc": "5735",
+        "submccname": "音像制品"
+      },
+      {
+        "mcc": "1029",
+        "submcc": "5942",
+        "submccname": "书籍"
+      },
+      {
+        "mcc": "1029",
+        "submcc": "5994",
+        "submccname": "报纸、杂志"
+      },
+      {
+        "mcc": "1030",
+        "submcc": "5733",
+        "submccname": "乐器"
+      },
+      {
+        "mcc": "1030",
+        "submcc": "5931",
+        "submccname": "旧商品店、二手商品店"
+      },
+      {
+        "mcc": "1030",
+        "submcc": "5932",
+        "submccname": "文物古董"
+      },
+      {
+        "mcc": "1030",
+        "submcc": "5937",
+        "submccname": "古玩复制品（赝品）"
+      },
+      {
+        "mcc": "1030",
+        "submcc": "5947",
+        "submccname": "礼品、卡片、纪念品"
+      },
+      {
+        "mcc": "1030",
+        "submcc": "5950",
+        "submccname": "瓷器、玻璃和水晶摆件"
+      },
+      {
+        "mcc": "1030",
+        "submcc": "5970",
+        "submccname": "工艺美术用品"
+      },
+      {
+        "mcc": "1030",
+        "submcc": "5971",
+        "submccname": "艺术品和画廊"
+      },
+      {
+        "mcc": "1030",
+        "submcc": "5972",
+        "submccname": "邮票/纪念币"
+      },
+      {
+        "mcc": "1030",
+        "submcc": "5973",
+        "submccname": "宗教物品"
+      },
+      {
+        "mcc": "1030",
+        "submcc": "5992",
+        "submccname": "花店"
+      },
+      {
+        "mcc": "1030",
+        "submcc": "5995",
+        "submccname": "宠物及宠物用品"
+      },
+      {
+        "mcc": "1030",
+        "submcc": "7993",
+        "submccname": "家用电子游戏"
+      },
+      {
+        "mcc": "1031",
+        "submcc": "5422",
+        "submccname": "肉、禽、蛋及水产品"
+      },
+      {
+        "mcc": "1031",
+        "submcc": "5441",
+        "submccname": "糖果及坚果商店"
+      },
+      {
+        "mcc": "1031",
+        "submcc": "5451",
+        "submccname": "乳制品/冷饮"
+      },
+      {
+        "mcc": "1031",
+        "submcc": "5462",
+        "submccname": "面包糕点"
+      },
+      {
+        "mcc": "1031",
+        "submcc": "5466",
+        "submccname": "茶叶"
+      },
+      {
+        "mcc": "1031",
+        "submcc": "5467",
+        "submccname": "保健品"
+      },
+      {
+        "mcc": "1031",
+        "submcc": "5499",
+        "submccname": "其他食品零售"
+      },
+      {
+        "mcc": "1031",
+        "submcc": "5811",
+        "submccname": "宴会提供商"
+      },
+      {
+        "mcc": "1031",
+        "submcc": "5812",
+        "submccname": "餐厅、订餐服务"
+      },
+      {
+        "mcc": "1031",
+        "submcc": "5813",
+        "submccname": "酒吧、舞厅、夜总会"
+      },
+      {
+        "mcc": "1031",
+        "submcc": "5814",
+        "submccname": "快餐店"
+      },
+      {
+        "mcc": "1031",
+        "submcc": "5921",
+        "submccname": "酒类"
+      },
+      {
+        "mcc": "1031",
+        "submcc": "5993",
+        "submccname": "烟草/雪茄"
+      },
+      {
+        "mcc": "1032",
+        "submcc": "5655",
+        "submccname": "运动服饰"
+      },
+      {
+        "mcc": "1032",
+        "submcc": "5940",
+        "submccname": "自行车及配件"
+      },
+      {
+        "mcc": "1032",
+        "submcc": "5941",
+        "submccname": "体育用品/器材"
+      },
+      {
+        "mcc": "1033",
+        "submcc": "8398",
+        "submccname": "慈善和社会公益服务"
+      },
+      {
+        "mcc": "1033",
+        "submcc": "8641",
+        "submccname": "行业协会和专业社团"
+      },
+      {
+        "mcc": "1033",
+        "submcc": "8651",
+        "submccname": "政府机构"
+      },
+      {
+        "mcc": "1033",
+        "submcc": "8661",
+        "submccname": "宗教组织"
+      },
+      {
+        "mcc": "1033",
+        "submcc": "8675",
+        "submccname": "汽车协会"
+      },
+      {
+        "mcc": "1033",
+        "submcc": "8699",
+        "submccname": "其他会员组织"
+      },
+      {
+        "mcc": "1034",
+        "submcc": "8011",
+        "submccname": "社区医疗服务机构、诊所等"
+      },
+      {
+        "mcc": "1034",
+        "submcc": "8021",
+        "submccname": "牙科医生"
+      },
+      {
+        "mcc": "1034",
+        "submcc": "8031",
+        "submccname": "正骨医生"
+      },
+      {
+        "mcc": "1034",
+        "submcc": "8041",
+        "submccname": "按摩医生"
+      },
+      {
+        "mcc": "1034",
+        "submcc": "8042",
+        "submccname": "眼科医疗服务"
+      },
+      {
+        "mcc": "1034",
+        "submcc": "8043",
+        "submccname": "眼镜店"
+      },
+      {
+        "mcc": "1034",
+        "submcc": "8049",
+        "submccname": "手足病医疗服务"
+      },
+      {
+        "mcc": "1034",
+        "submcc": "8050",
+        "submccname": "护理和照料服务"
+      },
+      {
+        "mcc": "1034",
+        "submcc": "8062",
+        "submccname": "公立医院"
+      },
+      {
+        "mcc": "1034",
+        "submcc": "8071",
+        "submccname": "医学及牙科实验室"
+      },
+      {
+        "mcc": "1034",
+        "submcc": "8099",
+        "submccname": "其他医疗保健服务"
+      },
+      {
+        "mcc": "1035",
+        "submcc": "9211",
+        "submccname": "法庭费用"
+      },
+      {
+        "mcc": "1035",
+        "submcc": "9222",
+        "submccname": "行政费用和罚款"
+      },
+      {
+        "mcc": "1035",
+        "submcc": "9223",
+        "submccname": "保释金"
+      },
+      {
+        "mcc": "1035",
+        "submcc": "9311",
+        "submccname": "税务、海关"
+      },
+      {
+        "mcc": "1035",
+        "submcc": "9399",
+        "submccname": "社会保障服务"
+      },
+      {
+        "mcc": "1035",
+        "submcc": "9400",
+        "submccname": "使领馆"
+      },
+      {
+        "mcc": "1035",
+        "submcc": "9402",
+        "submccname": "国家邮政"
+      },
+      {
+        "mcc": "1035",
+        "submcc": "9405",
+        "submccname": "政府采购"
+      },
+      {
+        "mcc": "1035",
+        "submcc": "9411",
+        "submccname": "政府贷款"
+      },
+      {
+        "mcc": "1036",
+        "submcc": "8111",
+        "submccname": "法律咨询和律师事务所"
+      },
+      {
+        "mcc": "1036",
+        "submcc": "8734",
+        "submccname": "测试实验服务"
+      },
+      {
+        "mcc": "1036",
+        "submcc": "8911",
+        "submccname": "建筑、工程和测量服务"
+      },
+      {
+        "mcc": "1036",
+        "submcc": "8912",
+        "submccname": "装修、装潢、园艺"
+      },
+      {
+        "mcc": "1036",
+        "submcc": "8931",
+        "submccname": "会计、审计、财务服务"
+      },
+      {
+        "mcc": "1036",
+        "submcc": "8999",
+        "submccname": "其他专业服务"
+      },
+      {
+        "mcc": "1037",
+        "submcc": "5021",
+        "submccname": "办公及商务家具（批发商）"
+      },
+      {
+        "mcc": "1037",
+        "submcc": "5044",
+        "submccname": "办公、影印及微缩摄影器材（批发商）"
+      },
+      {
+        "mcc": "1037",
+        "submcc": "5046",
+        "submccname": "未列入其他代码的商用器材"
+      },
+      {
+        "mcc": "1037",
+        "submcc": "5111",
+        "submccname": "文具、办公用品、复印纸和书写纸（批发商）"
+      },
+      {
+        "mcc": "1037",
+        "submcc": "5943",
+        "submccname": "文具及办公用品"
+      },
+      {
+        "mcc": "1037",
+        "submcc": "5978",
+        "submccname": "打字设备、打印复印机、扫描仪"
+      },
+      {
+        "mcc": "1038",
+        "submcc": "5047",
+        "submccname": "医疗器械"
+      },
+      {
+        "mcc": "1038",
+        "submcc": "5122",
+        "submccname": "药品、药品经营者（批发商）"
+      },
+      {
+        "mcc": "1038",
+        "submcc": "5912",
+        "submccname": "药物"
+      },
+      {
+        "mcc": "1038",
+        "submcc": "5975",
+        "submccname": "助听器"
+      },
+      {
+        "mcc": "1038",
+        "submcc": "5976",
+        "submccname": "康复和身体辅助用品"
+      },
+      {
+        "mcc": "1000",
+        "submcc": "9701",
+        "submccname": "Visa信任服务"
+      },
+      {
+        "mcc": "1000",
+        "submcc": "9702",
+        "submccname": "GCAS紧急服务（仅限Visa使用）"
+      },
+      {
+        "mcc": "1000",
+        "submcc": "9715",
+        "submccname": "档案"
+      },
+      {
+        "mcc": "1000",
+        "submcc": "9752",
+        "submccname": "电子档案"
+      },
+      {
+        "mcc": "1000",
+        "submcc": "9950",
+        "submccname": "站内清算"
+      },
+      {
+        "mcc": "1039",
+        "submcc": "5913",
+        "submccname": "未列入其他代码的批发类"
+      }
+    ]

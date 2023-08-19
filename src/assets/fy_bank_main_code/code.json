@@ -1,0 +1,94 @@
+[
+  {
+    "bankcode": "0102",
+    "bankname": "中国工商银行"
+  },
+  {
+    "bankcode": "0103",
+    "bankname": "中国农业银行"
+  },
+  {
+    "bankcode": "0104",
+    "bankname": "中国银行"
+  },
+  {
+    "bankcode": "0105",
+    "bankname": "中国建设银行"
+  },
+  {
+    "bankcode": "0301",
+    "bankname": "交通银行"
+  },
+  {
+    "bankcode": "0308",
+    "bankname": "招商银行"
+  },
+  {
+    "bankcode": "0309",
+    "bankname": "兴业银行"
+  },
+  {
+    "bankcode": "0305",
+    "bankname": "中国民生银行"
+  },
+  {
+    "bankcode": "0306",
+    "bankname": "广东发展银行"
+  },
+  {
+    "bankcode": "0307",
+    "bankname": "平安银行股份有限公司"
+  },
+  {
+    "bankcode": "0310",
+    "bankname": "上海浦东发展银行"
+  },
+  {
+    "bankcode": "0304",
+    "bankname": "华夏银行"
+  },
+  {
+    "bankcode": "0313",
+    "bankname": "其他城市商业银行"
+  },
+  {
+    "bankcode": "0314",
+    "bankname": "其他农村商业银行"
+  },
+  {
+    "bankcode": "0315",
+    "bankname": "恒丰银行"
+  },
+  {
+    "bankcode": "0403",
+    "bankname": "中国邮政储蓄银行股份有限公司"
+  },
+  {
+    "bankcode": "0303",
+    "bankname": "中国光大银行"
+  },
+  {
+    "bankcode": "0302",
+    "bankname": "中信银行"
+  },
+  {
+    "bankcode": "0316",
+    "bankname": "浙商银行股份有限公司"
+  },
+  {
+    "bankcode": "0318",
+    "bankname": "渤海银行股份有限公司"
+  },
+  {
+    "bankcode": "0319",
+    "bankname": "徽商银行"
+  },
+  {
+    "bankcode": "0322",
+    "bankname": "上海农村商业银行"
+  },
+  {
+    "bankcode": "0402",
+    "bankname": "其他农村信用合作社"
+  }
+]

@@ -1,0 +1,1074 @@
+[
+    {
+        "mcc_code": "7011",
+        "mcc_name": "住宿服务"
+    },
+    {
+        "mcc_code": "5944",
+        "mcc_name": "银器店"
+    },
+    {
+        "mcc_code": "5691",
+        "mcc_name": "成人成衣店"
+    },
+    {
+        "mcc_code": "5697",
+        "mcc_name": "服装定制及修补改衣店"
+    },
+    {
+        "mcc_code": "5698",
+        "mcc_name": "假发商店"
+    },
+    {
+        "mcc_code": "5699",
+        "mcc_name": "未列入其他代码的服饰商店"
+    },
+    {
+        "mcc_code": "5712",
+        "mcc_name": "家具及家居生活用品"
+    },
+    {
+        "mcc_code": "5713",
+        "mcc_name": "地板、地毯商店"
+    },
+    {
+        "mcc_code": "5714",
+        "mcc_name": "窗帘、遮阳棚商店"
+    },
+    {
+        "mcc_code": "5718",
+        "mcc_name": "壁炉、壁炉防护网及配件商店"
+    },
+    {
+        "mcc_code": "5719",
+        "mcc_name": "家庭装饰用品商店"
+    },
+    {
+        "mcc_code": "5732",
+        "mcc_name": "电子设备商店"
+    },
+    {
+        "mcc_code": "5950",
+        "mcc_name": "玻璃、陶瓷、水晶制品商店"
+    },
+    {
+        "mcc_code": "5733",
+        "mcc_name": "乐器商店"
+    },
+    {
+        "mcc_code": "5734",
+        "mcc_name": "计算机软件商店与软件下载"
+    },
+    {
+        "mcc_code": "5735",
+        "mcc_name": "音像制品商店与音像产品下载"
+    },
+    {
+        "mcc_code": "5814",
+        "mcc_name": "快餐店"
+    },
+    {
+        "mcc_code": "5912",
+        "mcc_name": "药房、药店"
+    },
+    {
+        "mcc_code": "5921",
+        "mcc_name": "瓶装酒销售商"
+    },
+    {
+        "mcc_code": "5931",
+        "mcc_name": "旧货及二手商品店"
+    },
+    {
+        "mcc_code": "5940",
+        "mcc_name": "自行车商店"
+    },
+    {
+        "mcc_code": "5941",
+        "mcc_name": "运动器材装备商店"
+    },
+    {
+        "mcc_code": "5942",
+        "mcc_name": "书店"
+    },
+    {
+        "mcc_code": "5970",
+        "mcc_name": "工艺美术商店"
+    },
+    {
+        "mcc_code": "5943",
+        "mcc_name": "文具商店"
+    },
+    {
+        "mcc_code": "5945",
+        "mcc_name": "玩具店"
+    },
+    {
+        "mcc_code": "5946",
+        "mcc_name": "摄影摄像器材商店"
+    },
+    {
+        "mcc_code": "5947",
+        "mcc_name": "礼品、纪念品、节日装饰品商店"
+    },
+    {
+        "mcc_code": "5948",
+        "mcc_name": "箱包、皮具店"
+    },
+    {
+        "mcc_code": "5949",
+        "mcc_name": "纺织品及针织品零售"
+    },
+    {
+        "mcc_code": "5972",
+        "mcc_name": "邮票和纪念币商店"
+    },
+    {
+        "mcc_code": "5973",
+        "mcc_name": "宗教用品商店"
+    },
+    {
+        "mcc_code": "5975",
+        "mcc_name": "助听器销售"
+    },
+    {
+        "mcc_code": "5976",
+        "mcc_name": "医疗器械"
+    },
+    {
+        "mcc_code": "5971",
+        "mcc_name": "艺术商和画廊"
+    },
+    {
+        "mcc_code": "5977",
+        "mcc_name": "化妆品商店"
+    },
+    {
+        "mcc_code": "5978",
+        "mcc_name": "打字机商店－销售、服务和出租"
+    },
+    {
+        "mcc_code": "5983",
+        "mcc_name": "燃料经销商（除机动车燃料）"
+    },
+    {
+        "mcc_code": "5992",
+        "mcc_name": "花店"
+    },
+    {
+        "mcc_code": "5993",
+        "mcc_name": "香烟、雪茄专卖店"
+    },
+    {
+        "mcc_code": "5995",
+        "mcc_name": "宠物商店、宠物食品及用品"
+    },
+    {
+        "mcc_code": "5996",
+        "mcc_name": "游泳池－销售、供应和服务"
+    },
+    {
+        "mcc_code": "5997",
+        "mcc_name": "电动剃刀商店－销售和服务"
+    },
+    {
+        "mcc_code": "5999",
+        "mcc_name": "未列入其他代码的专门零售店"
+    },
+    {
+        "mcc_code": "7993",
+        "mcc_name": "电子游戏设备销售"
+    },
+    {
+        "mcc_code": "7631",
+        "mcc_name": "手表、钟表和首饰维修店"
+    },
+    {
+        "mcc_code": "7995",
+        "mcc_name": "彩票销售"
+    },
+    {
+        "mcc_code": "8043",
+        "mcc_name": "光学仪器、眼镜店"
+    },
+    {
+        "mcc_code": "0742",
+        "mcc_name": "兽医服务"
+    },
+    {
+        "mcc_code": "0763",
+        "mcc_name": "农业合作"
+    },
+    {
+        "mcc_code": "0780",
+        "mcc_name": "景观美化及园艺服务"
+    },
+    {
+        "mcc_code": "4119",
+        "mcc_name": "救护车服务"
+    },
+    {
+        "mcc_code": "4215",
+        "mcc_name": "快递公司"
+    },
+    {
+        "mcc_code": "4225",
+        "mcc_name": "仓储服务"
+    },
+    {
+        "mcc_code": "4411",
+        "mcc_name": "旅客航运服务"
+    },
+    {
+        "mcc_code": "4457",
+        "mcc_name": "出租船只"
+    },
+    {
+        "mcc_code": "7032",
+        "mcc_name": "集体活动服务商，夏令营、拓展训练"
+    },
+    {
+        "mcc_code": "4468",
+        "mcc_name": "码头、船只停泊与维修服务"
+    },
+    {
+        "mcc_code": "4582",
+        "mcc_name": "机场、停机坪、飞机停靠与维修服务"
+    },
+    {
+        "mcc_code": "4722",
+        "mcc_name": "旅行社"
+    },
+    {
+        "mcc_code": "4733",
+        "mcc_name": "景区售票"
+    },
+    {
+        "mcc_code": "4816",
+        "mcc_name": "网络接入服务"
+    },
+    {
+        "mcc_code": "4821",
+        "mcc_name": "电报服务"
+    },
+    {
+        "mcc_code": "5935",
+        "mcc_name": "海上船只遇难救助"
+    },
+    {
+        "mcc_code": "6211",
+        "mcc_name": "证券公司－经纪人和经销商"
+    },
+    {
+        "mcc_code": "6513",
+        "mcc_name": "物业管理"
+    },
+    {
+        "mcc_code": "7210",
+        "mcc_name": "洗衣店"
+    },
+    {
+        "mcc_code": "7297",
+        "mcc_name": "按摩足疗店"
+    },
+    {
+        "mcc_code": "7211",
+        "mcc_name": "自助洗衣服务"
+    },
+    {
+        "mcc_code": "7216",
+        "mcc_name": "干洗店"
+    },
+    {
+        "mcc_code": "7217",
+        "mcc_name": "室内清洁服务（地毯、沙发、家具表面的清洁服务）"
+    },
+    {
+        "mcc_code": "7221",
+        "mcc_name": "照相馆、摄影工作室"
+    },
+    {
+        "mcc_code": "7230",
+        "mcc_name": "理发店"
+    },
+    {
+        "mcc_code": "7251",
+        "mcc_name": "鞋帽清洗保养服务"
+    },
+    {
+        "mcc_code": "7261",
+        "mcc_name": "殡葬、墓地服务"
+    },
+    {
+        "mcc_code": "7273",
+        "mcc_name": "婚恋服务与婚庆公司"
+    },
+    {
+        "mcc_code": "7276",
+        "mcc_name": "税收准备服务"
+    },
+    {
+        "mcc_code": "7277",
+        "mcc_name": "个人咨询服务"
+    },
+    {
+        "mcc_code": "7298",
+        "mcc_name": "保健、美容及洗浴服务"
+    },
+    {
+        "mcc_code": "7278",
+        "mcc_name": "商品服务买卖居间活动、团购"
+    },
+    {
+        "mcc_code": "7295",
+        "mcc_name": "家政服务"
+    },
+    {
+        "mcc_code": "7296",
+        "mcc_name": "服装出租"
+    },
+    {
+        "mcc_code": "7299",
+        "mcc_name": "未列入其他代码的个人服务"
+    },
+    {
+        "mcc_code": "7311",
+        "mcc_name": "广告服务"
+    },
+    {
+        "mcc_code": "7321",
+        "mcc_name": "信用调查与征信服务"
+    },
+    {
+        "mcc_code": "7333",
+        "mcc_name": "商业摄影、平面设计"
+    },
+    {
+        "mcc_code": "7338",
+        "mcc_name": "复印及绘图服务"
+    },
+    {
+        "mcc_code": "7339",
+        "mcc_name": "办公、文秘服务"
+    },
+    {
+        "mcc_code": "7342",
+        "mcc_name": "灭虫及消毒服务"
+    },
+    {
+        "mcc_code": "7829",
+        "mcc_name": "影视、音像制品创作、发行"
+    },
+    {
+        "mcc_code": "7349",
+        "mcc_name": "保洁服务"
+    },
+    {
+        "mcc_code": "7361",
+        "mcc_name": "职业介绍与人才服务"
+    },
+    {
+        "mcc_code": "7372",
+        "mcc_name": "计算机软件开发、系统集成、数据处理服务"
+    },
+    {
+        "mcc_code": "7375",
+        "mcc_name": "网站运营与信息检索服务"
+    },
+    {
+        "mcc_code": "7379",
+        "mcc_name": "未列入其他代码的计算机维护和修理服务"
+    },
+    {
+        "mcc_code": "7392",
+        "mcc_name": "管理咨询与公共关系服务"
+    },
+    {
+        "mcc_code": "7393",
+        "mcc_name": "安全保卫服务"
+    },
+    {
+        "mcc_code": "7394",
+        "mcc_name": "设备出租服务"
+    },
+    {
+        "mcc_code": "7395",
+        "mcc_name": "照片洗印服务"
+    },
+    {
+        "mcc_code": "7399",
+        "mcc_name": "未列入其他代码的商业服务"
+    },
+    {
+        "mcc_code": "7911",
+        "mcc_name": "歌舞厅、卡拉OK"
+    },
+    {
+        "mcc_code": "7512",
+        "mcc_name": "汽车出租"
+    },
+    {
+        "mcc_code": "7513",
+        "mcc_name": "卡车、拖车及农机出租"
+    },
+    {
+        "mcc_code": "7519",
+        "mcc_name": "房车和娱乐车辆出租"
+    },
+    {
+        "mcc_code": "7531",
+        "mcc_name": "车体维修店"
+    },
+    {
+        "mcc_code": "7534",
+        "mcc_name": "轮胎翻新、维修店"
+    },
+    {
+        "mcc_code": "7535",
+        "mcc_name": "汽车喷漆店"
+    },
+    {
+        "mcc_code": "7538",
+        "mcc_name": "机动车维修保养"
+    },
+    {
+        "mcc_code": "7542",
+        "mcc_name": "洗车服务"
+    },
+    {
+        "mcc_code": "7549",
+        "mcc_name": "拖车服务"
+    },
+    {
+        "mcc_code": "7622",
+        "mcc_name": "电器设备维修"
+    },
+    {
+        "mcc_code": "7012",
+        "mcc_name": "分时度假房地产"
+    },
+    {
+        "mcc_code": "7922",
+        "mcc_name": "舞台演出服务及票务"
+    },
+    {
+        "mcc_code": "7623",
+        "mcc_name": "空调、制冷设备维修"
+    },
+    {
+        "mcc_code": "7629",
+        "mcc_name": "小家电维修 "
+    },
+    {
+        "mcc_code": "7641",
+        "mcc_name": "家具维修、翻新"
+    },
+    {
+        "mcc_code": "7692",
+        "mcc_name": "焊接维修服务"
+    },
+    {
+        "mcc_code": "7699",
+        "mcc_name": "未列入其他代码的维修服务"
+    },
+    {
+        "mcc_code": "7832",
+        "mcc_name": "电影院"
+    },
+    {
+        "mcc_code": "7841",
+        "mcc_name": "音像制品出租服务"
+    },
+    {
+        "mcc_code": "7991",
+        "mcc_name": "观光与会展服务"
+    },
+    {
+        "mcc_code": "8011",
+        "mcc_name": "其他医疗机构"
+    },
+    {
+        "mcc_code": "8021",
+        "mcc_name": "牙科诊所"
+    },
+    {
+        "mcc_code": "7929",
+        "mcc_name": "未列入其他代码的文艺表演、艺术创作"
+    },
+    {
+        "mcc_code": "8031",
+        "mcc_name": "正骨医生"
+    },
+    {
+        "mcc_code": "8041",
+        "mcc_name": "按摩医生"
+    },
+    {
+        "mcc_code": "8042",
+        "mcc_name": "眼科医生"
+    },
+    {
+        "mcc_code": "8049",
+        "mcc_name": "手足病医生"
+    },
+    {
+        "mcc_code": "8050",
+        "mcc_name": "医疗护理和看护服务"
+    },
+    {
+        "mcc_code": "8071",
+        "mcc_name": "医学检验与牙科设备服务"
+    },
+    {
+        "mcc_code": "8099",
+        "mcc_name": "公共卫生服务机构"
+    },
+    {
+        "mcc_code": "8111",
+        "mcc_name": "法律事务"
+    },
+    {
+        "mcc_code": "8241",
+        "mcc_name": "函授学校（成人教育）"
+    },
+    {
+        "mcc_code": "8244",
+        "mcc_name": "商业和文秘学校"
+    },
+    {
+        "mcc_code": "7932",
+        "mcc_name": "台球娱乐场所"
+    },
+    {
+        "mcc_code": "8249",
+        "mcc_name": "职业技能培训"
+    },
+    {
+        "mcc_code": "8299",
+        "mcc_name": "其他学校和教育服务"
+    },
+    {
+        "mcc_code": "8351",
+        "mcc_name": "学前教育"
+    },
+    {
+        "mcc_code": "8911",
+        "mcc_name": "工业设计、建筑与工程设计"
+    },
+    {
+        "mcc_code": "8912",
+        "mcc_name": "装修装潢服务"
+    },
+    {
+        "mcc_code": "8931",
+        "mcc_name": "会计、审计、财务服务"
+    },
+    {
+        "mcc_code": "8999",
+        "mcc_name": "未列入其他代码的专业服务"
+    },
+    {
+        "mcc_code": "8641",
+        "mcc_name": "社会团体与行业协会"
+    },
+    {
+        "mcc_code": "8661",
+        "mcc_name": "宗教组织"
+    },
+    {
+        "mcc_code": "8675",
+        "mcc_name": "汽车协会"
+    },
+    {
+        "mcc_code": "7933",
+        "mcc_name": "台球娱乐场所"
+    },
+    {
+        "mcc_code": "8699",
+        "mcc_name": "未列入其他代码的会员组织"
+    },
+    {
+        "mcc_code": "5962",
+        "mcc_name": "旅游相关服务直销"
+    },
+    {
+        "mcc_code": "5963",
+        "mcc_name": "门对门销售"
+    },
+    {
+        "mcc_code": "5964",
+        "mcc_name": "目录直销商户"
+    },
+    {
+        "mcc_code": "5965",
+        "mcc_name": "目录、零售兼营商户"
+    },
+    {
+        "mcc_code": "5966",
+        "mcc_name": "电话呼出直销"
+    },
+    {
+        "mcc_code": "5967",
+        "mcc_name": "电话呼入直销"
+    },
+    {
+        "mcc_code": "5968",
+        "mcc_name": "订阅/订购直销服务"
+    },
+    {
+        "mcc_code": "5969",
+        "mcc_name": "其他直销商户"
+    },
+    {
+        "mcc_code": "4011",
+        "mcc_name": "铁路货运服务"
+    },
+    {
+        "mcc_code": "7941",
+        "mcc_name": "运动比赛场馆、体育俱乐部、赛事推广"
+    },
+    {
+        "mcc_code": "4214",
+        "mcc_name": "物流服务"
+    },
+    {
+        "mcc_code": "4458",
+        "mcc_name": "烟草配送"
+    },
+    {
+        "mcc_code": "5013",
+        "mcc_name": "机动车、农机零配件批发"
+    },
+    {
+        "mcc_code": "5021",
+        "mcc_name": "办公及商务家具批发"
+    },
+    {
+        "mcc_code": "5039",
+        "mcc_name": "建筑装饰材料批发商"
+    },
+    {
+        "mcc_code": "5044",
+        "mcc_name": "办公设备批发商"
+    },
+    {
+        "mcc_code": "5045",
+        "mcc_name": "计算机及外设批发"
+    },
+    {
+        "mcc_code": "5046",
+        "mcc_name": "未列入其他代码的商用机械设备批发"
+    },
+    {
+        "mcc_code": "5047",
+        "mcc_name": "医疗器械批发"
+    },
+    {
+        "mcc_code": "5051",
+        "mcc_name": "金属材料批发"
+    },
+    {
+        "mcc_code": "7992",
+        "mcc_name": "高尔夫球场"
+    },
+    {
+        "mcc_code": "5065",
+        "mcc_name": "电器零件与通信器材批发"
+    },
+    {
+        "mcc_code": "5072",
+        "mcc_name": "五金批发"
+    },
+    {
+        "mcc_code": "5074",
+        "mcc_name": "管道与供暖设备批发"
+    },
+    {
+        "mcc_code": "5111",
+        "mcc_name": "文教用品批发"
+    },
+    {
+        "mcc_code": "5122",
+        "mcc_name": "药品批发"
+    },
+    {
+        "mcc_code": "5131",
+        "mcc_name": "纺织原料及日用品批发"
+    },
+    {
+        "mcc_code": "5137",
+        "mcc_name": "服装、化妆品、卫生用品批发"
+    },
+    {
+        "mcc_code": "5139",
+        "mcc_name": "鞋帽批发"
+    },
+    {
+        "mcc_code": "5172",
+        "mcc_name": "石化产品批发"
+    },
+    {
+        "mcc_code": "5192",
+        "mcc_name": "书报批发"
+    },
+    {
+        "mcc_code": "7994",
+        "mcc_name": "大型游戏机和游戏场所"
+    },
+    {
+        "mcc_code": "5193",
+        "mcc_name": "花卉苗木批发"
+    },
+    {
+        "mcc_code": "5198",
+        "mcc_name": "涂料批发"
+    },
+    {
+        "mcc_code": "5398",
+        "mcc_name": "大型企业批发"
+    },
+    {
+        "mcc_code": "5998",
+        "mcc_name": "其他批发商"
+    },
+    {
+        "mcc_code": "8062",
+        "mcc_name": "医院"
+    },
+    {
+        "mcc_code": "8211",
+        "mcc_name": "中小学校"
+    },
+    {
+        "mcc_code": "8220",
+        "mcc_name": "普通高校"
+    },
+    {
+        "mcc_code": "8398",
+        "mcc_name": "社会福利与公益慈善组织"
+    },
+    {
+        "mcc_code": "9498",
+        "mcc_name": "信用卡还款"
+    },
+    {
+        "mcc_code": "7996",
+        "mcc_name": "游乐园、马戏馆、嘉年华"
+    },
+    {
+        "mcc_code": "7997",
+        "mcc_name": "会员制体育健身俱乐部、会所"
+    },
+    {
+        "mcc_code": "7998",
+        "mcc_name": "动物园、海洋馆"
+    },
+    {
+        "mcc_code": "7033",
+        "mcc_name": "宿营场地"
+    },
+    {
+        "mcc_code": "7999",
+        "mcc_name": "未列入其他代码的娱乐服务"
+    },
+    {
+        "mcc_code": "1520",
+        "mcc_name": "住宅与商业地产开发商"
+    },
+    {
+        "mcc_code": "1771",
+        "mcc_name": "建设工程"
+    },
+    {
+        "mcc_code": "6012",
+        "mcc_name": "金融机构-商品和服务"
+    },
+    {
+        "mcc_code": "7013",
+        "mcc_name": "房产代理、经纪"
+    },
+    {
+        "mcc_code": "5271",
+        "mcc_name": "活动房屋销售商"
+    },
+    {
+        "mcc_code": "5511",
+        "mcc_name": "汽车经销商"
+    },
+    {
+        "mcc_code": "5521",
+        "mcc_name": "二手车经销商"
+    },
+    {
+        "mcc_code": "5551",
+        "mcc_name": "船只销售商"
+    },
+    {
+        "mcc_code": "5561",
+        "mcc_name": "拖车销售商"
+    },
+    {
+        "mcc_code": "5811",
+        "mcc_name": "包办伙食，宴会承包商"
+    },
+    {
+        "mcc_code": "5571",
+        "mcc_name": "摩托车商店"
+    },
+    {
+        "mcc_code": "5592",
+        "mcc_name": "房车销售商"
+    },
+    {
+        "mcc_code": "5598",
+        "mcc_name": "雪车商"
+    },
+    {
+        "mcc_code": "5599",
+        "mcc_name": "未列入其他代码的机动车、飞行器、农业机械经销商"
+    },
+    {
+        "mcc_code": "5933",
+        "mcc_name": "典当、拍卖"
+    },
+    {
+        "mcc_code": "3998",
+        "mcc_name": "国家铁路总公司"
+    },
+    {
+        "mcc_code": "4111",
+        "mcc_name": "本市和市郊通勤旅客运输（包括轮渡）"
+    },
+    {
+        "mcc_code": "4112",
+        "mcc_name": "铁路客运"
+    },
+    {
+        "mcc_code": "4121",
+        "mcc_name": "出租车服务"
+    },
+    {
+        "mcc_code": "4131",
+        "mcc_name": "公路客运"
+    },
+    {
+        "mcc_code": "5812",
+        "mcc_name": "就餐场所和餐馆"
+    },
+    {
+        "mcc_code": "4511",
+        "mcc_name": "航空公司、航空客票销售"
+    },
+    {
+        "mcc_code": "4784",
+        "mcc_name": "路桥通行费"
+    },
+    {
+        "mcc_code": "7523",
+        "mcc_name": "停车场"
+    },
+    {
+        "mcc_code": "4814",
+        "mcc_name": "电信运营商"
+    },
+    {
+        "mcc_code": "4899",
+        "mcc_name": "付费电视"
+    },
+    {
+        "mcc_code": "4900",
+        "mcc_name": "公共事业（电力、煤气、自来水、清洁服务）"
+    },
+    {
+        "mcc_code": "5411",
+        "mcc_name": "综合性超级市场"
+    },
+    {
+        "mcc_code": "5541",
+        "mcc_name": "加油、加气、充电站"
+    },
+    {
+        "mcc_code": "5542",
+        "mcc_name": "自助加油站"
+    },
+    {
+        "mcc_code": "5722",
+        "mcc_name": "家用电器商店"
+    },
+    {
+        "mcc_code": "5813",
+        "mcc_name": "休闲饮品场所、酒吧、咖啡厅、茶馆"
+    },
+    {
+        "mcc_code": "8651",
+        "mcc_name": "政府机构"
+    },
+    {
+        "mcc_code": "9211",
+        "mcc_name": "法庭费用"
+    },
+    {
+        "mcc_code": "9222",
+        "mcc_name": "行政事业性收费、罚款"
+    },
+    {
+        "mcc_code": "9223",
+        "mcc_name": "保释金"
+    },
+    {
+        "mcc_code": "9311",
+        "mcc_name": "纳税"
+    },
+    {
+        "mcc_code": "9400",
+        "mcc_name": "使领馆收费"
+    },
+    {
+        "mcc_code": "9399",
+        "mcc_name": "未列入其他代码的政府服务（社会保险、社会保障服务）"
+    },
+    {
+        "mcc_code": "5994",
+        "mcc_name": "报亭、报摊"
+    },
+    {
+        "mcc_code": "9402",
+        "mcc_name": "国家邮政服务 "
+    },
+    {
+        "mcc_code": "5960",
+        "mcc_name": "保险公司"
+    },
+    {
+        "mcc_code": "5094",
+        "mcc_name": "贵重珠宝、首饰、钟表零售 "
+    },
+    {
+        "mcc_code": "6300",
+        "mcc_name": "保险代理"
+    },
+    {
+        "mcc_code": "6010",
+        "mcc_name": "金融机构－人工现金支付"
+    },
+    {
+        "mcc_code": "6011",
+        "mcc_name": "金融机构-自动现金支付"
+    },
+    {
+        "mcc_code": "6051",
+        "mcc_name": "非金融机构提供的金融类服务"
+    },
+    {
+        "mcc_code": "4789",
+        "mcc_name": "未列入其他代码的运输服务 "
+    },
+    {
+        "mcc_code": "4812",
+        "mcc_name": "通讯设备销售"
+    },
+    {
+        "mcc_code": "5211",
+        "mcc_name": "建材销售"
+    },
+    {
+        "mcc_code": "5231",
+        "mcc_name": "玻璃、油漆涂料、墙纸零售"
+    },
+    {
+        "mcc_code": "5251",
+        "mcc_name": "五金商店"
+    },
+    {
+        "mcc_code": "5261",
+        "mcc_name": "草坪、园艺用品商店"
+    },
+    {
+        "mcc_code": "5932",
+        "mcc_name": "古玩艺术品销售"
+    },
+    {
+        "mcc_code": "5309",
+        "mcc_name": "免税商店"
+    },
+    {
+        "mcc_code": "5310",
+        "mcc_name": "折扣商店"
+    },
+    {
+        "mcc_code": "5311",
+        "mcc_name": "百货商店"
+    },
+    {
+        "mcc_code": "5331",
+        "mcc_name": "各类杂货店、便利店"
+    },
+    {
+        "mcc_code": "5399",
+        "mcc_name": "未列入其他代码的综合零售服务"
+    },
+    {
+        "mcc_code": "5422",
+        "mcc_name": "肉类水产商店"
+    },
+    {
+        "mcc_code": "5441",
+        "mcc_name": "糖果及坚果商店"
+    },
+    {
+        "mcc_code": "5451",
+        "mcc_name": "乳制品商店"
+    },
+    {
+        "mcc_code": "5462",
+        "mcc_name": "面包房、糕点商店"
+    },
+    {
+        "mcc_code": "5499",
+        "mcc_name": "未列入其他代码的食品商店"
+    },
+    {
+        "mcc_code": "5937",
+        "mcc_name": "古玩复制店"
+    },
+    {
+        "mcc_code": "5532",
+        "mcc_name": "汽车轮胎经销商"
+    },
+    {
+        "mcc_code": "5533",
+        "mcc_name": "汽车零配件商店"
+    },
+    {
+        "mcc_code": "5611",
+        "mcc_name": "男装商店"
+    },
+    {
+        "mcc_code": "5621",
+        "mcc_name": "女装商店"
+    },
+    {
+        "mcc_code": "5631",
+        "mcc_name": "女性饰品商店"
+    },
+    {
+        "mcc_code": "5641",
+        "mcc_name": "婴儿、儿童用品店"
+    },
+    {
+        "mcc_code": "5651",
+        "mcc_name": "服装综合零售店"
+    },
+    {
+        "mcc_code": "5655",
+        "mcc_name": "运动服饰商店"
+    },
+    {
+        "mcc_code": "5661",
+        "mcc_name": "鞋店"
+    },
+    {
+        "mcc_code": "5681",
+        "mcc_name": "皮货店"
+    }
+]

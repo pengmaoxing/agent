@@ -1,0 +1,314 @@
+[
+    {
+        "dicCode":"ICBC",
+        "dicPath":"MERCHANT.BANK.ICBC",
+        "id":"20191204788730854985",
+        "dicName":"工商银行",
+        "dicValue":"ICBC ",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"CCB",
+        "dicPath":"MERCHANT.BANK.CCB",
+        "id":"20191204788730854986",
+        "dicName":"建设银行",
+        "dicValue":"CCB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"ABC",
+        "dicPath":"MERCHANT.BANK.ABC",
+        "id":"20191204788730854988",
+        "dicName":"农业银行",
+        "dicValue":"ABC",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"CMB",
+        "dicPath":"MERCHANT.BANK.CMB",
+        "id":"20191204788730854989",
+        "dicName":"招商银行",
+        "dicValue":"CMB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"BOC",
+        "dicPath":"MERCHANT.BANK.BOC",
+        "id":"20191204788730854990",
+        "dicName":"中国银行",
+        "dicValue":"BOC",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"CEB",
+        "dicPath":"MERCHANT.BANK.CEB",
+        "id":"20191204788730854991",
+        "dicName":"光大银行",
+        "dicValue":"CEB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"CMBC",
+        "dicPath":"MERCHANT.BANK.CMBC",
+        "id":"20191204788730854992",
+        "dicName":"民生银行",
+        "dicValue":"CMBC",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"BCM",
+        "dicPath":"MERCHANT.BANK.BCM",
+        "id":"20191204788730854993",
+        "dicName":"交通银行",
+        "dicValue":"BCM",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"CIB",
+        "dicPath":"MERCHANT.BANK.CIB",
+        "id":"20191204788730854994",
+        "dicName":"兴业银行",
+        "dicValue":"CIB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"CITIC ",
+        "dicPath":"MERCHANT.BANK.CITIC ",
+        "id":"20191204788730854995",
+        "dicName":"中信银行",
+        "dicValue":"CITIC ",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"HXB",
+        "dicPath":"MERCHANT.BANK.HXB",
+        "id":"20191204788730854996",
+        "dicName":"华夏银行",
+        "dicValue":"HXB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"PAB",
+        "dicPath":"MERCHANT.BANK.PAB",
+        "id":"20191204788730854997",
+        "dicName":"深圳发展银行",
+        "dicValue":"PAB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"GDB",
+        "dicPath":"MERCHANT.BANK.GDB",
+        "id":"20191204788730854998",
+        "dicName":"广发银行",
+        "dicValue":"GDB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"SPDB",
+        "dicPath":"MERCHANT.BANK.SPDB",
+        "id":"20191204788730854999",
+        "dicName":"浦东发展银行",
+        "dicValue":"SPDB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"HSBC",
+        "dicPath":"MERCHANT.BANK.HSBC",
+        "id":"20191204788730855000",
+        "dicName":"汇丰银行",
+        "dicValue":"HSBC",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"BOB",
+        "dicPath":"MERCHANT.BANK.BOB",
+        "id":"20191204788730855002",
+        "dicName":"北京银行",
+        "dicValue":"BOB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"PSBC",
+        "dicPath":"MERCHANT.BANK.PSBC",
+        "id":"20191204788730855003",
+        "dicName":"邮储银行",
+        "dicValue":"PSBC",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"RCC",
+        "dicPath":"MERCHANT.BANK.RCC",
+        "id":"20191205788730855038",
+        "dicName":"农村信用联社",
+        "dicValue":"RCC",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"RCB",
+        "dicPath":"MERCHANT.BANK.RCB",
+        "id":"20191205788730855039",
+        "dicName":"农村商业银行",
+        "dicValue":"RCB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"CB",
+        "dicPath":"MERCHANT.BANK.CB",
+        "id":"20191205788730855040",
+        "dicName":"城市商业银行",
+        "dicValue":"CB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"AHCB",
+        "dicPath":"MERCHANT.BANK.AHCB",
+        "id":"20200721794209778811",
+        "dicName":"徽商银行",
+        "dicValue":"AHCB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"EGB",
+        "dicPath":"MERCHANT.BANK.EGB",
+        "id":"20200721794209778813",
+        "dicName":"恒丰银行",
+        "dicValue":"EGB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"CZ",
+        "dicPath":"MERCHANT.BANK.CZ",
+        "id":"20200721794209778814",
+        "dicName":"浙商银行",
+        "dicValue":"CZ",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    },
+    {
+        "dicCode":"CBHB",
+        "dicPath":"MERCHANT.BANK.CBHB",
+        "id":"20200721794209778815",
+        "dicName":"渤海银行",
+        "dicValue":"CBHB",
+        "parentId":null,
+        "ext2":"",
+        "ext1":"",
+        "child":[
+
+        ]
+    }
+]
